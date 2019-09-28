@@ -27,13 +27,9 @@ PCブラウザ（第一フェーズ）
 ## 開発環境
 OS：Windows
 開発ツール：Visual Studio Code 1.38
-
 データベース：Mysql 8.0.17
-
 サーバー：VirtualBox
-　　　　　
-          Apache2
-
+　　　　　Apache2
 言語：Python 3.7.4
 
 
