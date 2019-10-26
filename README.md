@@ -29,6 +29,7 @@ OS：Windows<br>
 開発ツール：Visual Studio Code 1.38<br>
 データベース：Mysql 8.0.17<br>
 サーバー：VirtualBox<br>
+　　　　　CentOS 7<br>
 　　　　　Apache2<br>
 言語：Python 3.7.4<br>
 
